@@ -6,7 +6,7 @@
 
 Projeito feito pessoalmente utilizando apenas HTML e CSS
 
-[Acesso](https://allesoares95.github.io/NLW-Desktop---Calendario-HTML/)
+[Clique aqui para acessar](https://allesoares95.github.io/NLW-Desktop---Calendario-HTML/)
 
 
 ## Contato
