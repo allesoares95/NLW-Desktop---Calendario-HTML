@@ -51,7 +51,7 @@ main {
   align-items: center;  /* alinhamento de linha */
   
   padding: 8px 16px; 
-  border: 1px solid #746615; /* borda */
+  border: 1px solid #338AF3; /* borda */
   border-radius: 6px;   /* arrendondamento de borda */
 
   width: fit-content;
